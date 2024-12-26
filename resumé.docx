@@ -1,0 +1,29 @@
+Introduction à Git et GitHub :
+
+Git est un système de contrôle de version distribué permettant de suivre les modifications du code et de collaborer efficacement.
+GitHub est une plateforme en ligne pour héberger des dépôts Git, facilitant la collaboration et le partage de projets.
+Installation et Configuration :
+
+Installation de Git sur différentes plateformes (Windows, macOS, Linux).
+Configuration initiale avec les commandes git config pour définir le nom d'utilisateur et l'adresse email.
+Commandes de Base de Git :
+
+Création et initialisation d’un dépôt : git init.
+Ajout de fichiers au suivi : git add.
+Enregistrement des changements : git commit.
+Visualisation de l’historique : git log.
+Utilisation de GitHub :
+
+Création d’un dépôt sur GitHub.
+Connexion d’un dépôt local à un dépôt GitHub avec git remote.
+Synchronisation des modifications avec les commandes git push et git pull.
+Collaboration et Branches :
+
+Création et gestion de branches avec git branch et git checkout.
+Fusion de branches avec git merge.
+Gestion des conflits lors de la fusion.
+Bonnes Pratiques :
+
+Rédaction de messages de commit clairs et précis.
+Utilisation des branches pour travailler sur des fonctionnalités spécifiques sans affecter le code principal.
+Collaborer en utilisant des pull requests et des revues de code sur GitHub.
